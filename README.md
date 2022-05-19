@@ -1,6 +1,6 @@
 # Rodrigo's articles
 
-A list of articles I have published through GitHub repositories sorted by publishing date.
+Articles I may publish.
 
 ## Are you setting Limits to your Linux Containers?
 

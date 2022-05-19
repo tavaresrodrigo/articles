@@ -16,15 +16,3 @@ A buffer overflow occurs when a program overruns adjacent memory locations of a 
 
 StatefulSets are indicated to Stateful applications like Databases that requires unique network identifiers, persistent storage in K8s.
 ### [Read article](https://tavaresrodrigo.github.io/postgresql/)
-
-
-
-## ADB - Assignment A: Amazon Aurora DB
-
-Amazon Aurora DB is an enterprise relational database engine compatible with MySQL and PostgreSQL.
-### [Read article](https://tavaresrodrigo.github.io/ADBTU60Aurora/)
-
-## Telemetry
-
-A Python API that receives temperature reading from multiple sensors and persists to DynamoDB with the registered time.
-### [Read article](https://tavaresrodrigo.github.io/Telemetry/)
